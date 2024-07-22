@@ -4779,7 +4779,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC2"
+		(property "Value" "USB_CC2"
 			(at 1.016 0 0)
 			(layer "B.SilkS")
 			(uuid "7cb6c093-bddc-4f1b-a0c4-5578f77b4abd")
@@ -4958,7 +4958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC1"
+		(property "Value" "USB_CC1"
 			(at 1.016 0 0)
 			(layer "B.SilkS")
 			(uuid "47a71a1e-5342-4532-acb1-c5e242797196")
