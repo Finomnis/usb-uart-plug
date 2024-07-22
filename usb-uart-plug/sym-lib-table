@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Finomnis")(type "KiCad")(uri "${KIPRJMOD}/../libs/finomnis-kicad-libs/symbols/Finomnis.kicad_sym")(options "")(descr ""))
+)
