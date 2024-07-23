@@ -5489,6 +5489,45 @@
 		(layer "Edge.Cuts")
 		(uuid "6b9cffcc-ff9a-429d-a007-532e54955349")
 	)
+	(gr_text "USB-Uart\nSplitter v1"
+		(at 140.716 74.676 0)
+		(layer "B.SilkS")
+		(uuid "7c5b4f7d-e814-48d9-94bd-49fdd27d398b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 133.096 82.296 0)
+		(layer "B.SilkS")
+		(uuid "8c2cca64-d699-4f98-bb24-58fd7b8969e5")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "by Finomnis"
+		(at 140.208 78.486 -0)
+		(layer "B.SilkS")
+		(uuid "ef6e3d92-0cea-4fd5-b75c-026bf3d7eaed")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Stackup: JLC04161H-3313"
 		(locked yes)
 		(at 97.663 89.027 0)
